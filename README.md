@@ -1,4 +1,4 @@
-# react-boilerplate
+# react17-boilerplate
 
 Lightweight boilerplate for building web apps using React 17, Express and Node.js
 
