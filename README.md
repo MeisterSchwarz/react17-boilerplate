@@ -11,7 +11,7 @@ For setting up a project on your device, run the following commands
 git clone https://github.com/MeisterSchwarz/react17-boilerplate.git
 
 # Change directory and install dependencies for API
-cd react-boilerplate/API
+cd react17-boilerplate/API
 npm install
 
 # Change directory to UI and install dependencies
