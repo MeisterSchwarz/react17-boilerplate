@@ -3,6 +3,7 @@
   "version": "1.1",
   "description": "Boilerplate for building web apps using React, Express and Node.js",
   "main": "renderer.js",
+  
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
     "build": "webpack --mode production",
